@@ -68,7 +68,7 @@ body {
 
 /*! Home Alanı */
 .home {
-  background: url("./background.jpg");
+  background: url("./img/background.jpg");
   height: 100vh;
   background-size: cover;
   background-position: center;
